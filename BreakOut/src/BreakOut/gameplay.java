@@ -76,7 +76,7 @@ public class gameplay extends JPanel implements KeyListener, ActionListener
 			ballYdir = 0;
 			g.setColor(Color.RED);
 			g.setFont(new Font("serif", Font.BOLD,30));
-			g.drawString("You WQN ! :3, Scores:", 260, 300);
+			g.drawString("You WQN ! :3", 200, 300);
 			
 			g.setFont(new Font("serif", Font.BOLD,20));
 			g.drawString("Press Enter to Restart :D", 230, 350);
